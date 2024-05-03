@@ -1,3 +1,9 @@
+## Method to Run
+- Run the python file calculate_result_Hindi.py with the below commandline arguments:
+-   response_file_name LLM_GPT-4_Responses.json
+-   api_key
+-   organization org-5uDK7VT3sQzBbToEv2fgTtOO
+
 ## Introduction:
 - Introduces "Hindi Hallucination QA (HHQA)" benchmark for evaluating hallucinatory tendencies in Large Language Models (LLMs) like GPT-4 and LLaMA-3 within the Hindi language context.
 - Aims to challenge models beyond conventional parameters by focusing on imitative misconceptions and factual inaccuracies.
